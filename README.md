@@ -27,6 +27,16 @@ A beginner-friendly C program that prints weather conditions based on the day of
 
     Implementing conditional logic
 
+## 📂 Project Structure 
+```
+simple-weather-reporter/
+├── README.md               # Project description and instructions
+├── 📄 weather.c           # Main C source code file
+├── 📄 .gitignore          # Optional: ignore compiled files like 'weather'
+└── build/                 # Optional: folder for compiled output (e.g., executable files)
+
+```
+
 ## 🛠️ How to Run
 
     Copy the code into a file called weather.c
