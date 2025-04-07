@@ -61,3 +61,7 @@ Feel free to fork the repository and submit a pull request if you'd like to cont
 
 ---
 💻 **Developed by [Muaadh Alsway]**
+
+ <a href="https://www.linkedin.com/posts/muaddh-alsway_include-include-cprogramming-activity-7314968474244501506-taYD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8"  target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
